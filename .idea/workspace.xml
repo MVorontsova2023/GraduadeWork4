@@ -5,17 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecccf06e-9026-4e71-94d9-40526cb50219" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/graduadework4/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/graduadework4/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/graduadework4/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/graduadework4/MainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/allure1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/ApiBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/ApiBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/e2e/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/e2e/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/e2e/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/e2e/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/AddNewCoursePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/AddNewCoursePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/ProfileUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/ProfileUserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDirectoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDirectoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/StudentMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/StudentMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/TeacherMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/TeacherMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/AddNewCoursePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/AddNewCoursePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListDetailsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListDetailsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/ProfileUserPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/ProfileUserPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/SignInPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/SignUpPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/SignUpPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDetailsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDetailsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDirectoryPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDirectoryPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentMainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/TeacherMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/TeacherMainPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="file://$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" environment="dev" />
   </component>
   <component name="ProjectId" id="2TtPliK8ehM4HPL08lT0D3QeG8D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,14 +58,131 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;ui.tests.BasePageTest&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/workMarina/LearningQA/AquaProjects/GraduadeWork4/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rest.client.default.execution.environment&quot;: &quot;dev&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workMarina\LearningQA\AquaProjects\GraduadeWork4\src\test\java\api" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="ui.tests.BasePageTest" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workMarina\LearningQA\AquaProjects\GraduadeWork4\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ui.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SignInPageTest.successSignInAsTeacher">
+    <configuration name="SignInPageTest.successSignInAsStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GraduadeWork4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.SignInPageTest" />
+      <option name="METHOD_NAME" value="successSignInAsStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInPageTest.successSignInAsTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GraduadeWork4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.SignInPageTest" />
+      <option name="METHOD_NAME" value="successSignInAsTeacher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest.successSignUpAsStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GraduadeWork4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.SignUpPageTest" />
+      <option name="METHOD_NAME" value="successSignUpAsStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest.successSignUpAsTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GraduadeWork4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.SignUpPageTest" />
+      <option name="METHOD_NAME" value="successSignUpAsTeacher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GraduadeWork4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.StudentMainPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SignInPageTest.successSignInAsTeacher" />
+        <item itemvalue="JUnit.SignUpPageTest.successSignUpAsTeacher" />
+        <item itemvalue="JUnit.SignUpPageTest.successSignUpAsStudent" />
+        <item itemvalue="JUnit.SignInPageTest.successSignInAsStudent" />
+        <item itemvalue="JUnit.StudentMainPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,8 +191,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691859559555</updated>
-      <workItem from="1691859560637" duration="3000" />
+      <workItem from="1691859560637" duration="8012000" />
+      <workItem from="1691912923651" duration="14205000" />
+      <workItem from="1691939900406" duration="6467000" />
+      <workItem from="1691998266499" duration="10261000" />
+      <workItem from="1692084531325" duration="9522000" />
+      <workItem from="1692111439115" duration="9335000" />
+      <workItem from="1692173123208" duration="24358000" />
+      <workItem from="1692254154966" duration="11607000" />
+      <workItem from="1692341345522" duration="29669000" />
+      <workItem from="1692515795400" duration="5428000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

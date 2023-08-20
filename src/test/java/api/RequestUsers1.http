@@ -18,7 +18,7 @@ client.assert(response.status === 201, "Response status is not 201");
 %}
 
 ### DELETE USER
-DELETE {{base_uri}}/3691johnr@gmail.com
+DELETE {{base_uri}}/johnr536@gmail.com
 Content-Type: application/json
 Softr-Api-Key: {{api-key}}
 Softr-Domain: {{domain}}
