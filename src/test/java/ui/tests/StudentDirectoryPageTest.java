@@ -36,7 +36,7 @@ private static StudentMainPage studentMainPage;
     @Test
     @DisplayName("Checking the search by student name on student-directory page")
     public void validStudentsSearch() {
-        studentDirectoryPage.searchStudentField.shouldBe(enabled).setValue("mari");
+        studentDirectoryPage.searchStudentField.shouldBe(enabled).setValue("roxanne");
         Selenide.sleep(3000L);
         for (int i =0; i < studentDirectoryPage.searchedStudentsCollection.size(); i++) {
             SelenideElement el = studentDirectoryPage.searchedStudentsCollection.get(i);

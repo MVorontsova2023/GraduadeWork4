@@ -15,12 +15,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BasePageTest {
 
-    public final String BASE_URL = "https://jere237.softr.app";
-//    public final String BASE_URL = "https://erich416.softr.app";
+//    public final String BASE_URL = "https://jere237.softr.app";
+    public final String BASE_URL = "https://erich416.softr.app";
     public final String STUDENT_EMAIL = "malik@example.com";
     public final String STUDENT_PASSWORD = "123456";
-    public final String TEACHER_EMAIL = "maria@example.com";
-    public final String TEACHER_PASSWORD = "123456789";
+    public final String TEACHER_EMAIL = "johnr480@gmail.com";
+    public final String TEACHER_PASSWORD = "12345678";
 
     @BeforeAll
     public static void setUpAll() {
