@@ -36,7 +36,6 @@ class BasePageTest {
 //        WebDriverRunner.getWebDriver().manage().window().maximize();
     }
 
-
     @AfterEach
     void tearDown() {
         closeWebDriver();
