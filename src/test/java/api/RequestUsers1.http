@@ -1,0 +1,41 @@
+### CREATE USER
+POST {{base_uri}}
+Content-Type: application/json
+Softr-Api-Key: {{api-key}}
+Softr-Domain: {{domain}}
+
+{
+  "full_name": "John Richardson1",
+  "email": "3691johnr@gmail.com",
+  "password": "12345678",
+  "generate_magic_link":false
+}
+
+> {%
+client.test("Request executed successfully", function() {
+client.assert(response.status === 201, "Response status is not 201");
+});
+%}
+
+### DELETE USER
+DELETE {{base_uri}}/3691johnr@gmail.com
+Content-Type: application/json
+Softr-Api-Key: {{api-key}}
+Softr-Domain: {{domain}}
+
+{
+  "full_name": "John Richardson1",
+  "email": "3691johnr@gmail.com",
+  "password": "12345678",
+  "generate_magic_link":false
+}
+
+> {%
+    client.test("Request executed successfully", function() {
+        client.assert(response.status === 200, "Response status is not 200");
+    });
+%}
+
+###
+
+
