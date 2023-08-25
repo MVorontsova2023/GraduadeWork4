@@ -5,33 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecccf06e-9026-4e71-94d9-40526cb50219" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/allure1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/ApiBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/ApiBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/e2e/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/e2e/SignInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/e2e/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/e2e/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/AddNewCoursePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/AddNewCoursePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/CourseListPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/ProfileUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/ProfileUserPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDirectoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/StudentDirectoryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/StudentMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/StudentMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/pages/TeacherMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/pages/TeacherMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/AddNewCoursePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/AddNewCoursePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListDetailsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListDetailsPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CourseListPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/ProfileUserPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/ProfileUserPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/SignInPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/SignUpPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/SignUpPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDetailsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDetailsPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDirectoryPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDirectoryPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentMainPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/TeacherMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/TeacherMainPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="NewSite" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HttpClientSelectedEnvironments">
@@ -93,22 +77,9 @@
       <recent name="ui.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SignInPageTest.successSignInAsTeacher">
-    <configuration name="SignInPageTest.successSignInAsStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GraduadeWork4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ui.tests" />
-      <option name="MAIN_CLASS_NAME" value="ui.tests.SignInPageTest" />
-      <option name="METHOD_NAME" value="successSignInAsStudent" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="JUnit.SignUpPageTest.successSignUpAsStudent">
+    <configuration name="RequestUsers1 | DELETE USER" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" index="2" requestIdentifier="DELETE USER" runType="Run single request">
+      <method v="2" />
     </configuration>
     <configuration name="SignInPageTest.successSignInAsTeacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GraduadeWork4" />
@@ -175,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SignInPageTest.successSignInAsTeacher" />
-        <item itemvalue="JUnit.SignUpPageTest.successSignUpAsTeacher" />
         <item itemvalue="JUnit.SignUpPageTest.successSignUpAsStudent" />
-        <item itemvalue="JUnit.SignInPageTest.successSignInAsStudent" />
+        <item itemvalue="HTTP Request.RequestUsers1 | DELETE USER" />
         <item itemvalue="JUnit.StudentMainPageTest" />
+        <item itemvalue="JUnit.SignUpPageTest.successSignUpAsTeacher" />
+        <item itemvalue="JUnit.SignInPageTest.successSignInAsTeacher" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +172,8 @@
       <workItem from="1692254154966" duration="11607000" />
       <workItem from="1692341345522" duration="29669000" />
       <workItem from="1692515795400" duration="5428000" />
+      <workItem from="1692774925452" duration="3202000" />
+      <workItem from="1692863053874" duration="3544000" />
     </task>
     <servers />
   </component>
