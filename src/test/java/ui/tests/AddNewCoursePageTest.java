@@ -1,21 +1,13 @@
 package ui.tests;
-
 import com.codeborne.selenide.*;
-import io.qameta.allure.Description;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.chrome.ChromeOptions;
 import ui.pages.AddNewCoursePage;
 import ui.pages.TeacherMainPage;
 import ui.pages.CourseListPage;
-
 import java.util.Random;
-
 import static com.codeborne.selenide.Condition.enabled;
-import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -32,7 +24,6 @@ class AddNewCoursePageTest extends BasePageTest {
         teacherMainPage = new TeacherMainPage();
         courseListPage = new CourseListPage();
     }
-
     @Test
     @DisplayName("Create a new course as teacher")
     public void ValidAddNewCourse() {
@@ -51,7 +42,6 @@ class AddNewCoursePageTest extends BasePageTest {
         addNewCoursePage.courseEndDateField.click();
         addNewCoursePage.selectDaysCollection.get(5+random.nextInt(5)).pressEnter();
         addNewCoursePage.addCourseButton.click();
-        // go to course list page
         teacherMainPage.linkHeaderCourses.shouldBe(enabled).click();
         teacherMainPage.linkHeaderCoursesList.shouldBe(enabled).click();
         // find added course in course list

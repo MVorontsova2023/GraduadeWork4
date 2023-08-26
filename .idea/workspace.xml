@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecccf06e-9026-4e71-94d9-40526cb50219" name="Changes" comment="Init">
+    <list default="true" id="ecccf06e-9026-4e71-94d9-40526cb50219" name="Changes" comment="Change BasePageTest.java">
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/f-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDirectoryPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/StudentDirectoryPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/http-client.env.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/http-client.env.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/AddNewCoursePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/AddNewCoursePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +79,10 @@
       <recent name="ui.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CourseListPageTest.validCourseSearch">
+  <component name="RunManager" selected="JUnit.SignUpPageTest.successSignUpAsStudent">
+    <configuration name="RequestUsers1 | DELETE USER" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" index="2" requestIdentifier="DELETE USER" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="CourseListPageTest.validCourseSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GraduadeWork4" />
       <extension name="coverage">
@@ -86,22 +94,6 @@
       <option name="PACKAGE_NAME" value="ui.tests" />
       <option name="MAIN_CLASS_NAME" value="ui.tests.CourseListPageTest" />
       <option name="METHOD_NAME" value="validCourseSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SignInPageTest.successSignInAsStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GraduadeWork4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ui.tests" />
-      <option name="MAIN_CLASS_NAME" value="ui.tests.SignInPageTest" />
-      <option name="METHOD_NAME" value="successSignInAsStudent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SignUpPageTest.successSignUpAsStudent" />
+        <item itemvalue="HTTP Request.RequestUsers1 | DELETE USER" />
         <item itemvalue="JUnit.CourseListPageTest.validCourseSearch" />
         <item itemvalue="JUnit.SignInPageTest.successSignInAsTeacher" />
         <item itemvalue="JUnit.SignUpPageTest.successSignUpAsTeacher" />
-        <item itemvalue="JUnit.SignUpPageTest.successSignUpAsStudent" />
-        <item itemvalue="JUnit.SignInPageTest.successSignInAsStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +175,7 @@
       <workItem from="1692254154966" duration="11607000" />
       <workItem from="1692341345522" duration="29669000" />
       <workItem from="1692515795400" duration="7537000" />
+      <workItem from="1693066450514" duration="1735000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
