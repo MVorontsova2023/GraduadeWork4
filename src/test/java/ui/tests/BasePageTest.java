@@ -19,8 +19,8 @@ class BasePageTest {
 //    public final String BASE_URL = "https://erich416.softr.app";
     public final String STUDENT_EMAIL = "malik@example.com";
     public final String STUDENT_PASSWORD = "123456";
-    public final String TEACHER_EMAIL = "mv@example.com";
-    public final String TEACHER_PASSWORD = "123456789";
+    public final String TEACHER_EMAIL = "m@example.com";
+    public final String TEACHER_PASSWORD = "123456";
 
     @BeforeAll
     public static void setUpAll() {

@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecccf06e-9026-4e71-94d9-40526cb50219" name="Changes" comment="">
+    <list default="true" id="ecccf06e-9026-4e71-94d9-40526cb50219" name="Changes" comment="Change AddNewCoursePageTest.java1">
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/f-1.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/httpRequests/f.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/RequestUsers1.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/http-client.env.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/http-client.env.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/tests/BasePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
